@@ -2,9 +2,9 @@
   
 # 👋 Hi, I'm Arkadii Hrytsiuk
 
-### 💻 IT Student | 📊 Aspiring Data Analyst | 🚀 Tech Enthusiast
+### 🎓 B.Eng. Computer Science | 📊 Aspiring Data Engineer | 🚀 Tech Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=4th+Year+IT+Student;Data+Analytics+Explorer;Always+Learning+New+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate;Data+Engineering+Enthusiast;Building+Data+Pipelines;Backend+%26+Data+Solutions" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadii-hrytsiuk-38ab17263/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ponikrad)
@@ -15,22 +15,24 @@
 
 ## 🚀 About Me
 
-I'm a **4th-year IT student** passionate about building **useful and clean solutions**. I enjoy exploring different areas of technology and constantly expanding my skill set. Currently diving deep into **Data Analytics** to master data-driven decision making and storytelling.
+I'm a **recent Computer Science Engineering graduate** (B.Eng.) passionate about data architecture, backend systems, and building clean, scalable solutions. For my engineering thesis, I developed a full-stack distributed system using **Java (Spring Boot), PostgreSQL, and React**. 
 
-```java
-class Arkadii {
-    String role = "IT Student & Data Analytics Enthusiast";
-    String[] interests = {"Data Analysis", "Backend Development", "Problem Solving"};
-    String currentFocus = "Transforming data into actionable insights";
-    
-    void code() {
-        while (learning) {
-            build();
-            improve();
-            repeat();
-        }
-    }
-}
+Currently, I am actively diving deep into **Data Engineering and Analytics** to master ETL processes, database optimization, and transforming raw data into actionable insights.
+
+```python
+class Arkadii:
+    def __init__(self):
+        self.degree = "B.Eng. in Computer Science"
+        self.role = "Aspiring Data Engineer & Analyst"
+        self.core_stack = ["Python", "SQL", "Java"]
+        self.current_mission = "Transforming raw data into optimized pipelines and insights"
+        
+    def execute_daily_routine(self):
+        while True:
+            self.extract_knowledge()
+            self.transform_ideas_into_code()
+            self.load_solutions()
+            self.optimize_queries()
 ```
 
 ---
