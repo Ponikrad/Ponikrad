@@ -49,7 +49,7 @@ class Arkadii:
 ### Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Tableau]([https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=powerbi&logoColor=black))
+![Tableau](https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
