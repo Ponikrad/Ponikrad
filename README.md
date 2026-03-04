@@ -49,7 +49,7 @@ class Arkadii:
 ### Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau]([https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=powerbi&logoColor=black))
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -59,20 +59,10 @@ class Arkadii:
 
 ## 📊 Currently Learning
 
-- 📈 **Data Analytics** - SQL, Python, Power BI
+- 📈 **Data Analytics** - SQL, Python, Tableau
 - 📉 **Data Visualization** - Creating compelling stories with data
 - 🎯 **Statistical Analysis** - Making data-driven decisions
 - 🔍 **ETL Processes** - Data transformation and cleaning
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ponikrad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-
-</div>
 
 ---
 
